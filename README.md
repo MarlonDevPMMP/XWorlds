@@ -2,7 +2,6 @@
 <h1>What is XWorlds?</h1>
 XWorlds is an World Managing Plugin for Pocketmine-MP.
 <h1>Commands</h1>
-/xworlds <create:tp:load:unload:info>
 </br>
 /xworlds create <Name> <Generator> - Create an World.
   </br>
