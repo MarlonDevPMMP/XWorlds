@@ -1,0 +1,9 @@
+name: XWorlds
+main: MDev\XWorlds\Main
+author: MDev
+version: 1.0.0
+api: 3.0.0
+commands:
+  xworlds:
+    description: XWorlds Command.
+    aliases: ["xw", "world"]
